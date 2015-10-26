@@ -1,0 +1,18 @@
+Install notes
+1. Unzip the zip-file.
+2. Read the "Recent Changes" and the "Known Problems" pages 
+   as far as informative for you (See http://www.37steps.com/prtools)
+3. Copy or move the prtools folder to a Matlab working directory.
+4. Store the other files somewhere for future reference.
+5. Start Matlab
+6. Add the prtools folder to your path, either by the "Set Path" 
+   entry in the "File" menu or by the addpath command.
+7. Run prex_plotc
+   If you see a scatterplot with some classifiers, everything is fine.
+   If you just see a listing and warnings, but no scatterplot, graphics
+   are not enabled or tunneled.
+   If you see errors, something is wrong:
+   - "Undefined function or variable 'prex_plotc'", means that prtools 
+     is not in your path.
+   - other messages may be caused by a collision of toolboxes, 
+     See "Known Problems"

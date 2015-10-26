@@ -1,0 +1,21 @@
+PRTools license
+The Pattern Recognition Research Group of the TU Delft, The Netherlands, to be called DelftPR, has developed and is the owner of the pattern recognition Matlab toolbox and all related documentation known as PRTools, further to be called the SOFTWARE. The SOFTWARE is distributed as a Matlab source code for the pattern recognition routines and as a Matlab p-code for the support routines. It is available under the below listed licenses.
+1. Licenses
+    1.1. Non-profit license.
+    Under this license, the SOFTWARE may be used by individuals and non-profit organizations such as academic institutions for education or research with publicly available outcomes (reports, publications).
+    Price: This license is provided free of charge.
+    1.2. Commercial on-site license
+    This SOFTWARE license may be used by commercial subjects for their in-house research. It does not include any use outside this site, nor the redistribution of the SOFTWARE in its entirety, nor partially.
+    Price: This license is provided free of charge.
+    1.3. Commercial redistribution license
+    This license may be used by the commercial subjects in order to redistribute SOFTWARE or its part as a part of their product.
+    Pricing upon request
+2. Upgrades and Support
+    2.1. All licenses are provided on an "as is" basis without support or guarantees.
+    2.2. All license holders are entitled to freely download upgrades of the the SOFTWARE as they become available.
+    2.3. DelftPR has the right to stop the development and distribution of the SOFTWARE at any time without prior notice to the license holders.
+3. Disclaimer
+    3.1. The CUSTOMER acknowledges that the SOFTWARE is a research tool and that it is being supplied 'as is', without any accompanying services from DelftPR.
+    3.2. DelftPR makes no representations or warranties of any kind, either express or implied, as to any matter whatsoever, including but not limited to implied warranties of merchantability or fitness for any particular purpose or that the use of the SOFTWARE will not infringe any patent or copyright.
+    3.3. The CUSTOMER agrees that DelftPR shall not be held to any liability with respect to any claim by the CUSTOMER or a third party arising from or on account of the use of the SOFTWARE or redistribution of the SOFTWARE. DelftPR shall not be liable for any special indirect, incidental or consequential damages arising out of the licensed rights granted hereunder.
+    3.4. DelftPR cannot be held to any liability with respect to errors in the SOFTWARE or damage caused by correct or incorrect use of the SOFTWARE.
